@@ -1,4 +1,4 @@
-//Minha possível resolução
+//Minha possível solução
 function gerarNumerosMegaSena(quantidade) {
     const numeros = [];
     let tentativas = 0;
